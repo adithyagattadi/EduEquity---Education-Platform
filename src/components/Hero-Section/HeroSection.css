@@ -1,0 +1,34 @@
+.hero__content h2 {
+    font-weight: 600;
+    line-height: 55px;
+  }
+  .hero__content p {
+    font-weight: 600;
+  }
+  
+  .hero__content {
+    padding-top: 80px;
+  }
+  .search input {
+    border: none;
+    outline: none;
+    padding: 7px 10%;
+    border-radius: 20px;
+  }
+  
+  .search {
+    width: 60%;
+    border: 3px solid #17bf9d44;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 50px;
+    margin-top: 20px;
+  }
+  .search button{
+    border-radius: 20px;
+    background-color: #0aa18344;
+  }
+  .search button:hover {
+    background-color: green;
+  }

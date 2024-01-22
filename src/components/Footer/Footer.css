@@ -1,0 +1,43 @@
+/* Footer Styles */
+
+.footer {
+    background-color: #aed9e2; /* Light blue background color */
+    padding: 60px 0; /* Add padding for better spacing */
+    position: relative;
+    top: 350px;
+  }
+  
+  .follows span a {
+    text-decoration: none;
+  }
+  
+  .follows span {
+    margin-right: 15px;
+  }
+  
+  .link__list .link__item {
+    background: transparent;
+  }
+  
+  .link__list a {
+    text-decoration: none;
+    color: #0a2b1e;
+    font-weight: 500;
+  }
+  
+  /* Adjustments for better spacing and readability */
+  .link__list {
+    margin-bottom: 20px;
+  }
+  
+  .link__item {
+    margin-bottom: 10px;
+  }
+  
+  /* Additional styling for social media icons */
+  .follows i {
+    font-size: 1.5rem;
+    color: #0a2b1e;
+    margin-right: 10px;
+  }
+  

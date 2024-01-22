@@ -1,0 +1,17 @@
+.involved-container {
+    max-width: 1300px;
+    margin: auto;
+    padding: 20px;
+    position: relative;
+    top: 120px;
+  }
+  
+  h2, h3 {
+    color: #333;
+  }
+  
+  .volunteer-section, .volunteer-form, .donation-section {
+    margin-bottom: 30px;
+  }
+  
+  

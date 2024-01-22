@@ -1,0 +1,7 @@
+.testimonial__content h2 {
+    font-weight: 600;
+  }
+.testimonial__wrapper{
+  position: relative;
+  top: 140px;
+}
